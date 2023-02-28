@@ -5,7 +5,7 @@ using UnityEngine;
 public class CharacterController : MonoBehaviour
 {
     float dirX, dirY, moveSpeed;
-
+    // Comentario
     Animator anim;
 
     // Initialization
